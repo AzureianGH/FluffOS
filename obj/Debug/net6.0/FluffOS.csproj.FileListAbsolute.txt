@@ -10,3 +10,16 @@ I:\source\FluffOS\obj\Debug\net6.0\FluffOS.dll
 I:\source\FluffOS\obj\Debug\net6.0\refint\FluffOS.dll
 I:\source\FluffOS\obj\Debug\net6.0\FluffOS.pdb
 I:\source\FluffOS\obj\Debug\net6.0\ref\FluffOS.dll
+C:\Users\alexm\Documents\GitHub\FluffOS\bin\Debug\net6.0\FluffOS.deps.json
+C:\Users\alexm\Documents\GitHub\FluffOS\bin\Debug\net6.0\FluffOS.dll
+C:\Users\alexm\Documents\GitHub\FluffOS\bin\Debug\net6.0\FluffOS.pdb
+C:\Users\alexm\Documents\GitHub\FluffOS\obj\Debug\net6.0\FluffOS.csproj.AssemblyReference.cache
+C:\Users\alexm\Documents\GitHub\FluffOS\obj\Debug\net6.0\FluffOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexm\Documents\GitHub\FluffOS\obj\Debug\net6.0\FluffOS.AssemblyInfoInputs.cache
+C:\Users\alexm\Documents\GitHub\FluffOS\obj\Debug\net6.0\FluffOS.AssemblyInfo.cs
+C:\Users\alexm\Documents\GitHub\FluffOS\obj\Debug\net6.0\FluffOS.csproj.CoreCompileInputs.cache
+C:\Users\alexm\Documents\GitHub\FluffOS\obj\Debug\net6.0\FluffOS.sourcelink.json
+C:\Users\alexm\Documents\GitHub\FluffOS\obj\Debug\net6.0\FluffOS.dll
+C:\Users\alexm\Documents\GitHub\FluffOS\obj\Debug\net6.0\refint\FluffOS.dll
+C:\Users\alexm\Documents\GitHub\FluffOS\obj\Debug\net6.0\FluffOS.pdb
+C:\Users\alexm\Documents\GitHub\FluffOS\obj\Debug\net6.0\ref\FluffOS.dll

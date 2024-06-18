@@ -1,20 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "C0IilVLhIio=",
+  "dgSpecHash": "7wIEFwbv3Dnp0YrgMSZV2P6zhYlehN2T4WNnfNhxxg404nj8v50pWAYfd8x/w/WhBTxQgZp5ejgpD4pXC0kkTw==",
   "success": true,
-  "projectFilePath": "I:\\source\\FluffOS\\FluffOS.csproj",
+  "projectFilePath": "C:\\Users\\alexm\\Documents\\GitHub\\FluffOS\\FluffOS.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\alexm\\.nuget\\packages\\cosmos.build\\0.1.0-localbuild20240612120006\\cosmos.build.0.1.0-localbuild20240612120006.nupkg.sha512",
-    "C:\\Users\\alexm\\.nuget\\packages\\cosmos.common\\0.1.0-localbuild20240612120016\\cosmos.common.0.1.0-localbuild20240612120016.nupkg.sha512",
-    "C:\\Users\\alexm\\.nuget\\packages\\cosmos.core\\0.1.0-localbuild20240612120016\\cosmos.core.0.1.0-localbuild20240612120016.nupkg.sha512",
-    "C:\\Users\\alexm\\.nuget\\packages\\cosmos.debug.kernel\\0.1.0-localbuild20240612120016\\cosmos.debug.kernel.0.1.0-localbuild20240612120016.nupkg.sha512",
-    "C:\\Users\\alexm\\.nuget\\packages\\cosmos.hal2\\0.1.0-localbuild20240612120016\\cosmos.hal2.0.1.0-localbuild20240612120016.nupkg.sha512",
-    "C:\\Users\\alexm\\.nuget\\packages\\cosmos.plugs\\0.1.0-localbuild20240612120016\\cosmos.plugs.0.1.0-localbuild20240612120016.nupkg.sha512",
-    "C:\\Users\\alexm\\.nuget\\packages\\cosmos.system2\\0.1.0-localbuild20240612120016\\cosmos.system2.0.1.0-localbuild20240612120016.nupkg.sha512",
-    "C:\\Users\\alexm\\.nuget\\packages\\il2cpu.api\\0.1.0-localbuild20240612120016\\il2cpu.api.0.1.0-localbuild20240612120016.nupkg.sha512",
-    "C:\\Users\\alexm\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
-    "C:\\Users\\alexm\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
-    "C:\\Users\\alexm\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512"
+    "C:\\Users\\alexm\\.nuget\\packages\\cosmos.build\\0.1.0-localbuild20240617121435\\cosmos.build.0.1.0-localbuild20240617121435.nupkg.sha512",
+    "C:\\Users\\alexm\\.nuget\\packages\\cosmos.common\\0.1.0-localbuild20240617121445\\cosmos.common.0.1.0-localbuild20240617121445.nupkg.sha512",
+    "C:\\Users\\alexm\\.nuget\\packages\\cosmos.core\\0.1.0-localbuild20240617121445\\cosmos.core.0.1.0-localbuild20240617121445.nupkg.sha512",
+    "C:\\Users\\alexm\\.nuget\\packages\\cosmos.debug.kernel\\0.1.0-localbuild20240617121445\\cosmos.debug.kernel.0.1.0-localbuild20240617121445.nupkg.sha512",
+    "C:\\Users\\alexm\\.nuget\\packages\\cosmos.hal2\\0.1.0-localbuild20240617121445\\cosmos.hal2.0.1.0-localbuild20240617121445.nupkg.sha512",
+    "C:\\Users\\alexm\\.nuget\\packages\\cosmos.plugs\\0.1.0-localbuild20240617121445\\cosmos.plugs.0.1.0-localbuild20240617121445.nupkg.sha512",
+    "C:\\Users\\alexm\\.nuget\\packages\\cosmos.system2\\0.1.0-localbuild20240617121445\\cosmos.system2.0.1.0-localbuild20240617121445.nupkg.sha512",
+    "C:\\Users\\alexm\\.nuget\\packages\\il2cpu.api\\0.1.0-localbuild20240617121445\\il2cpu.api.0.1.0-localbuild20240617121445.nupkg.sha512"
   ],
   "logs": []
 }

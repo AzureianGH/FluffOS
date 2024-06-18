@@ -19,6 +19,10 @@
         <PxeInterface>192.168.0.8</PxeInterface>
         <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
         <DebugEnabled>False</DebugEnabled>
+        <CompileVBEMultiboot>True</CompileVBEMultiboot>
+        <RemoveBootDebugOutput>True</RemoveBootDebugOutput>
+        <OptimizationLevel>2</OptimizationLevel>
+        <VMWareEdition>Workstation</VMWareEdition>
     </PropertyGroup>
 
     <ItemGroup>
